@@ -24,7 +24,7 @@
 點選「智能縮時撥放」按鈕會根據AI所計算有魚活動時間點, 自動連續播放只有魚蹤跡的部分忽略掉沒有魚的部分(跳掉).  
   
 ![image](https://github.com/Coopathon2019/12_BetterFishFarm/blob/master/PIC4.JPG)  
-  
+
 也可以根據下方表格的排序點選想要觀看的時間點, 影片上方會出現您所點選的標籤資訊, 同時下方表格也支援各欄位由大到小或由小到大切換排序.  
   
 ![image](https://github.com/Coopathon2019/12_BetterFishFarm/blob/master/PIC3.JPG)  
