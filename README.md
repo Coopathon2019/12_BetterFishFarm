@@ -11,16 +11,24 @@
 接著回放歷史影片，對於所選取的影片，我們將在雲端運用AI智能技術自動找出影片中養殖魚與魚群活動的時間點，
 透過本案所開發的智能縮時搜尋功能與辨識指標，引導漁民迅速找到並檢查魚群的活動狀態，以減少不必要的人眼搜尋時間浪費。
 
-所開發之程式分成兩部分
+本提案所開發的網頁介面  
+![image](https://github.com/Coopathon2019/12_BetterFishFarm/blob/master/PIC1.JPG)  
 
-Part I: 後端AI辨識
-請見資料夾: AI_Identify_Program
-主體語言: python
-環境安裝設置與執行: 請見「環境設定與縮時搜尋程式執行.pdf」(*請注意安裝PYTHON套件時須使用一樣的版本)
+影片中的AI智能魚蹤標籤  
+![image](https://github.com/Coopathon2019/12_BetterFishFarm/blob/master/PIC2.JPG)  
 
-Part II: 前端網頁與AI辨識結果所存之資料庫連結
-請見資料夾: OWBS_WebApp
-主體語言: C#
-設置環境: Visual Studio 2017 WEB開發套件 & SQL試用版
+# 本提案所開發的程式說明
+
+我們所開發的程式分成兩部分  
+
+# Part I: 後端AI辨識  
+請見資料夾: AI_Identify_Program  
+主體語言: python  
+環境安裝設置與執行: 請見「環境設定與縮時搜尋程式執行.pdf」(請注意安裝PYTHON套件時須使用一樣的版本)  
+
+# Part II: 前端網頁與AI辨識結果所存之資料庫連結  
+請見資料夾: OWBS_WebApp  
+主體語言: C#  
+設置環境: Visual Studio 2017 WEB開發套件 & SQL試用版  
 
 
