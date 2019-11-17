@@ -40,7 +40,8 @@
 
 # Part II: 前端網頁與AI辨識結果所存之資料庫連結  
 請見資料夾: OWBS_WebApp  
-主體語言: C#  
+主體語言: C# & JavaScript  
 設置環境: Visual Studio 2017 WEB開發套件 & SQL試用版  
 
-如果您對此專案有興趣歡迎聯絡我們: lien@hysontech.tw
+如果您對此專案有興趣或有任何想法建議, 歡迎聯絡我們: lien@hysontech.tw
+  
